@@ -1,0 +1,23 @@
+services:
+  neo4j:
+    image: neo4j:latest
+    container_name: neo4j
+    volumes:
+        - neo4j-logs:/logs
+        - neo4j-config:/config
+        - neo4j-data:/data
+        - neo4j-plugins:/plugins
+        - ./import:/var/lib/neo4j/import:Z
+    environment:
+        - NEO4J_AUTH=none
+        - NEO4J_PLUGINS=["graph-data-science","apoc"]
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    restart: on-failure
+
+volumes:
+  neo4j-logs:
+  neo4j-config:
+  neo4j-data:
+  neo4j-plugins:
