@@ -1,0 +1,43 @@
+venue_code:ID(Venue-ID),name,location,tag,url,sport_codes
+ALX,Pont Alexandre III,Pont Alexandre III,pont-alexandre-iii,https://olympics.com/en/paris-2024/venues/pont-alexandre-iii,CRD;OWS;TRI
+AQC,Aquatics Centre,Aquatics Centre,aquatics-centre,https://olympics.com/en/paris-2024/venues/aquatics-centre,DIV;SWA;WPO
+BCY,Bercy Arena,Bercy Arena,bercy-arena,https://olympics.com/en/paris-2024/venues/bercy-arena,BKB;GAR;GTR
+BOR,Bordeaux Stadium,"Bordeaux Stadium, Bordeaux",bordeaux-stadium,https://olympics.com/en/paris-2024/venues/bordeaux-stadium,FBL
+CDM,Champ-de-Mars Arena,Champ-de-Mars Arena Mat 1,,,JUD;WRE
+CPL,La Chapelle Arena,La Chapelle Arena Court 1,,,BDM;GRY
+CTX,Chateauroux Shooting Ctr,Chateauroux - 10m Qualification,,,SHO
+DEF,Paris La Defense Arena,Paris La Defense Arena,paris-la-defense-arena,https://olympics.com/en/paris-2024/venues/paris-la-defense-arena,SWM;WPO
+EIF,Eiffel Tower Stadium,Eiffel Tower Stadium - Centre Court,eiffel-tower-stadium,https://olympics.com/en/paris-2024/venues/eiffel-tower-stadium,VBV
+ELA,Elancourt Hill,Elancourt Hill,elancourt-hill,https://olympics.com/en/paris-2024/venues/elancourt-hill,MTB
+GRP,Grand Palais,Grand Palais - Blue Piste,grand-palais,https://olympics.com/en/paris-2024/venues/grand-palais,FEN;TKW
+INV,Invalides,Invalides,invalides,https://olympics.com/en/paris-2024/venues/invalides,ARC;ATH
+LBO,Le Bourget Climbing Venue,Le Bourget Sport Climbing Venue,,,CLB
+LC1,La Concorde 1,La Concorde 1,,,BK3;BKG
+LC2,La Concorde 2,La Concorde 2,,,BMF
+LC3,La Concorde 3,La Concorde 3,,,SKB
+LC4,La Concorde 4,La Concorde 4,,,SKB
+LGN,Le Golf National,Le Golf National,,,GLF
+LIL,Pierre Mauroy Stadium,Pierre Mauroy Stadium,pierre-mauroy-stadium,https://olympics.com/en/paris-2024/venues/pierre-mauroy-stadium,BKB;HBL
+LYO,Lyon Stadium,"Lyon Stadium, Lyon",lyon-stadium,https://olympics.com/en/paris-2024/venues/lyon-stadium,FBL
+MAM,Marseille Marina,Marseille Marina - Frioul,marseille-marina,https://olympics.com/en/paris-2024/venues/marseille-marina,SAL
+MRS,Marseille Stadium,"Marseille Stadium, Marseille",marseille-stadium,https://olympics.com/en/paris-2024/venues/marseille-stadium,FBL
+NAN,La Beaujoire Stadium,"La Beaujoire Stadium, Nantes",la-beaujoire-stadium,https://olympics.com/en/paris-2024/venues/la-beaujoire-stadium,FBL
+NIC,Nice Stadium,"Nice Stadium, Nice",nice-stadium,https://olympics.com/en/paris-2024/venues/nice-stadium,FBL
+NPA,North Paris Arena,North Paris Arena,north-paris-arena,https://olympics.com/en/paris-2024/venues/north-paris-arena,BOX;MPN
+PDP,Parc des Princes,"Parc des Princes, Paris",parc-des-princes,https://olympics.com/en/paris-2024/venues/parc-des-princes,FBL
+RGA,Roland-Garros Stadium,Roland-Garros - Court Philippe-Chatrier,,,BOX;TEN
+SP1,South Paris Arena 1,South Paris Arena 1,,,VVO
+SP4,South Paris Arena 4,South Paris Arena 4 Table 1,,,TTE
+SP6,South Paris Arena 6,South Paris Arena 6,,,HBL;WLF
+STA,Stade de France,Stade de France,stade-de-france,https://olympics.com/en/paris-2024/venues/stade-de-france,ATH;RU7
+STE,Geoffroy-Guichard Stadium,"Geoffroy-Guichard Stadium, Saint-Etienne",geoffroy-guichard-stadium,https://olympics.com/en/paris-2024/venues/geoffroy-guichard-stadium,FBL
+TAH,"Teahupo'o, Tahiti","Teahupo'o, Tahiti",teahupo-o-tahiti,https://olympics.com/en/paris-2024/venues/teahupo-o-tahiti,SRF
+TRO,Trocadéro,Trocadéro,trocadero,https://olympics.com/en/paris-2024/venues/trocadero,ATH;CRD
+VE1,National Velodrome,Saint-Quentin-en-Yvelines Velodrome,,,CTR
+VE2,BMX Stadium,Saint-Quentin-en-Yvelines BMX Stadium,,,BMX
+VER,Château de Versailles,Château de Versailles,chateau-de-versailles,https://olympics.com/en/paris-2024/venues/chateau-de-versailles,EQU;MPN
+VN1,Nautical St - Flat water,Vaires-sur-Marne Nautical Stadium - Flat water,,,CSP;ROW
+VN2,Nautical St - White water,Vaires-sur-Marne Nautical Stadium - White water,,,CSL
+YDM,Yves-du-Manoir Stadium,Yves-du-Manoir Stadium - Pitch 1,yves-du-manoir-stadium,https://olympics.com/en/paris-2024/venues/yves-du-manoir-stadium,HOC
+anon-0,,,,,CER
+anon-1,,,,,CER

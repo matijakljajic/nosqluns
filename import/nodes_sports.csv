@@ -1,0 +1,47 @@
+sport_code:ID(Sport-ID),name,tag,url
+ARC,Archery,archery,https://olympics.com/en/paris-2024/sports/archery
+ATH,Athletics,athletics,https://olympics.com/en/paris-2024/sports/athletics
+BDM,Badminton,badminton,https://olympics.com/en/paris-2024/sports/badminton
+BK3,3x3 Basketball,3x3-basketball,https://olympics.com/en/paris-2024/sports/3x3-basketball
+BKB,Basketball,basketball,https://olympics.com/en/paris-2024/sports/basketball
+BKG,Breaking,breaking,https://olympics.com/en/paris-2024/sports/breaking
+BMF,Cycling BMX Freestyle,cycling-bmx-freestyle,https://olympics.com/en/paris-2024/sports/cycling-bmx-freestyle
+BMX,Cycling BMX Racing,cycling-bmx-racing,https://olympics.com/en/paris-2024/sports/cycling-bmx-racing
+BOX,Boxing,boxing,https://olympics.com/en/paris-2024/sports/boxing
+CER,Opening Ceremony,,
+CLB,Sport Climbing,sport-climbing,https://olympics.com/en/paris-2024/sports/sport-climbing
+CRD,Cycling Road,cycling-road,https://olympics.com/en/paris-2024/sports/cycling-road
+CSL,Canoe Slalom,canoe-kayak-slalom,https://olympics.com/en/paris-2024/sports/canoe-kayak-slalom
+CSP,Canoe Sprint,canoe-kayak-flatwater,https://olympics.com/en/paris-2024/sports/canoe-kayak-flatwater
+CTR,Cycling Track,cycling-track,https://olympics.com/en/paris-2024/sports/cycling-track
+DIV,Diving,diving,https://olympics.com/en/paris-2024/sports/diving
+EQU,Equestrian,equestrian,https://olympics.com/en/paris-2024/sports/equestrian
+FBL,Football,football,https://olympics.com/en/paris-2024/sports/football
+FEN,Fencing,fencing,https://olympics.com/en/paris-2024/sports/fencing
+GAR,Artistic Gymnastics,artistic-gymnastics,https://olympics.com/en/paris-2024/sports/artistic-gymnastics
+GLF,Golf,golf,https://olympics.com/en/paris-2024/sports/golf
+GRY,Rhythmic Gymnastics,rhythmic-gymnastics,https://olympics.com/en/paris-2024/sports/rhythmic-gymnastics
+GTR,Trampoline Gymnastics,trampoline-gymnastics,https://olympics.com/en/paris-2024/sports/trampoline-gymnastics
+HBL,Handball,handball,https://olympics.com/en/paris-2024/sports/handball
+HOC,Hockey,hockey,https://olympics.com/en/paris-2024/sports/hockey
+JUD,Judo,judo,https://olympics.com/en/paris-2024/sports/judo
+MPN,Modern Pentathlon,modern-pentathlon,https://olympics.com/en/paris-2024/sports/modern-pentathlon
+MTB,Cycling Mountain Bike,cycling-mountain-bike,https://olympics.com/en/paris-2024/sports/cycling-mountain-bike
+OWS,Marathon Swimming,marathon-swimming,https://olympics.com/en/paris-2024/sports/marathon-swimming
+ROW,Rowing,rowing,https://olympics.com/en/paris-2024/sports/rowing
+RU7,Rugby Sevens,rugby-sevens,https://olympics.com/en/paris-2024/sports/rugby-sevens
+SAL,Sailing,sailing,https://olympics.com/en/paris-2024/sports/sailing
+SHO,Shooting,shooting,https://olympics.com/en/paris-2024/sports/shooting
+SKB,Skateboarding,skateboarding,https://olympics.com/en/paris-2024/sports/skateboarding
+SRF,Surfing,surfing,https://olympics.com/en/paris-2024/sports/surfing
+SWA,Artistic Swimming,artistic-swimming,https://olympics.com/en/paris-2024/sports/artistic-swimming
+SWM,Swimming,swimming,https://olympics.com/en/paris-2024/sports/swimming
+TEN,Tennis,tennis,https://olympics.com/en/paris-2024/sports/tennis
+TKW,Taekwondo,taekwondo,https://olympics.com/en/paris-2024/sports/taekwondo
+TRI,Triathlon,triathlon,https://olympics.com/en/paris-2024/sports/triathlon
+TTE,Table Tennis,table-tennis,https://olympics.com/en/paris-2024/sports/table-tennis
+VBV,Beach Volleyball,beach-volleyball,https://olympics.com/en/paris-2024/sports/beach-volleyball
+VVO,Volleyball,volleyball,https://olympics.com/en/paris-2024/sports/volleyball
+WLF,Weightlifting,weightlifting,https://olympics.com/en/paris-2024/sports/weightlifting
+WPO,Water Polo,water-polo,https://olympics.com/en/paris-2024/sports/water-polo
+WRE,Wrestling,wrestling,https://olympics.com/en/paris-2024/sports/wrestling
